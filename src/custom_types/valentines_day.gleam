@@ -1,6 +1,4 @@
 import gleam.{type Int}
-import gleam/int
-import gleam/order
 
 // TODO: please define the 'Approval' custom type
 pub type Approval {
